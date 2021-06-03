@@ -24,19 +24,19 @@ In Data cleaning and preparation, We handle the categorical variables into machi
 
 2. Number of Customer Service Calls made per churn
 
-![image](Images/number customer_service_calls_churn_rate.png)
+![image](Images/number_customer_service_calls_churn_rate.png)
 
 3. Churn Rate per state in the US
 
-![image](Images/state chrun plot.png)
+![image](Images/state_chrun_plot.png)
 
 4. Total Daily calls and how it affects churn rate
 
-![image](Images/total daily calls and churn rate.png)
+![image](Images/total_daily_calls_and_churn_rate.png)
 
 5. Total Evening Calls and how it affects churn rate
 
-![image](Images/total eve call and churn rate.png)
+![image](Images/total_eve_call_and_churn_rate.png)
 
 
 
