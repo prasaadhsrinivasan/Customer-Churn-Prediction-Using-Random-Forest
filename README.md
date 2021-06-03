@@ -17,7 +17,7 @@ In Data cleaning and preparation, We handle the categorical variables into machi
 
 # Exploratory Data Analysis
 
-![image info](./images/chrun count plot.png)
+![image](Images/chrun_count_plot.png)
 
 
 
