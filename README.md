@@ -1,4 +1,4 @@
-# Predict Customer Churn using Random Forest Classification
+## Predict Customer Churn using Random Forest Classification
 
 Customer retention is one of the primary growth pillars for products with a returning customers and subscription models.
 
@@ -17,7 +17,30 @@ In Data cleaning and preparation, We handle the categorical variables into machi
 
 # Exploratory Data Analysis
 
+
+1. No of Users per churn (If the churn number is 1 the customer has discontinued)
+
 ![image](Images/chrun_count_plot.png)
+
+2. Number of Customer Service Calls made per churn
+
+![image](Images/number customer_service_calls_churn_rate.png)
+
+3. Churn Rate per state in the US
+
+![image](Images/state chrun plot.png)
+
+4. Total Daily calls and how it affects churn rate
+
+![image](Images/total daily calls and churn rate.png)
+
+5. Total Evening Calls and how it affects churn rate
+
+![image](Images/total eve call and churn rate.png)
+
+
+
+
 
 
 
