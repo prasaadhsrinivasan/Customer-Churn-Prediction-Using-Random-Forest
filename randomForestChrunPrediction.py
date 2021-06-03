@@ -79,7 +79,7 @@ mse = mean_squared_error(predict.round(),y_test)
 rmse = np.sqrt(mse)
 print(rmse)
 
-#Fine-Tune Model
+#Fine Tune Model
 
 from sklearn.model_selection import GridSearchCV
 
